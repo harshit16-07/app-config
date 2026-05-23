@@ -1,6 +1,5 @@
 build:
-    id: 10101
-    version :10101.0.3
-    name: "Testing purpose"
-    type: " nill"
-    
+  id: 10101
+  version: 10101.0.3
+  name: "Testing purpose"
+  type: "null"
